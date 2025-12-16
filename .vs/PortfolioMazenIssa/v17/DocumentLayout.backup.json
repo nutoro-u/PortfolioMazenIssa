@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|solutionrelative:layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|e:\\gd\\blazor\\proj\\portfoliomazenissa\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|solutionrelative:layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|e:\\gd\\blazor\\proj\\portfoliomazenissa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|e:\\gd\\blazor\\proj\\portfoliomazenissa\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|solutionrelative:_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|e:\\gd\\blazor\\proj\\portfoliomazenissa\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|solutionrelative:layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,16 +42,16 @@
               "Title": "MainLayout.razor",
               "DocumentMoniker": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Layout\\MainLayout.razor",
-              "ToolTip": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "Layout\\MainLayout.razor",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwC8AAAAEAAAAAAAAAA==",
+              "ToolTip": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\Layout\\MainLayout.razor*",
+              "RelativeToolTip": "Layout\\MainLayout.razor*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-16T07:54:58.585Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -64,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_Imports.razor",
               "DocumentMoniker": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\_Imports.razor",
               "RelativeDocumentMoniker": "_Imports.razor",
@@ -77,20 +77,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Layout\\NavMenu.razor",
               "ToolTip": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\Layout\\NavMenu.razor",
               "RelativeToolTip": "Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-16T07:06:45.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "index.html",
               "DocumentMoniker": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "wwwroot\\index.html",

@@ -8,7 +8,7 @@
 <MudLayout>
 	<MudAppBar Elevation="1">
 		<MudIconButton Icon="@Icons.Material.Filled.Menu" Color="Color.Inherit" Edge="Edge.Start" OnClick="@((e) => DrawerToggle())" />
-		<MudText Typo="Typo.h5" Class="ml-3">Portfolio</MudText>
+		<MudButton Href="/">Mazen Issa</MudButton>
 		<MudSpacer />
 		<MudIconButton Icon="@(DarkLightModeButtonIcon)" Color="Color.Inherit" OnClick="@DarkModeToggle" />
 		@* <MudIconButton Icon="@Icons.Material.Filled.MoreVert" Color="Color.Inherit" Edge="Edge.End" /> *@
@@ -32,6 +32,8 @@
 </div>
 
 @code {
+	// @* Typo="Typo.h3" Class="ml-3" *@> mazen issa
+
 	private bool _drawerOpen = true;
 	private bool _isDarkMode = true;
 	private MudTheme? _theme = null;
@@ -72,11 +74,11 @@
 	{
 		Primary = "#7e6fff",
 		Surface = "#1e1e2d",
-		Background = "#1a1a27",
+		Background = "#101014", // "#1a1a27",
 		BackgroundGray = "#151521",
 		AppbarText = "#92929f",
-		AppbarBackground = "rgba(26,26,39,0.8)",
-		DrawerBackground = "#1a1a27",
+		AppbarBackground = "#101014", // "#1c1c20", // "rgba(26,26,39,0.8)",
+		DrawerBackground = "#101014", // "#1a1a27",
 		ActionDefault = "#74718e",
 		ActionDisabled = "#9999994d",
 		ActionDisabledBackground = "#605f6d4d",
