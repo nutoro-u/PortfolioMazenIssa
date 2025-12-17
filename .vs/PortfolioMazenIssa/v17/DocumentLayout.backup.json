@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|e:\\gd\\blazor\\proj\\portfoliomazenissa\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|e:\\gd\\blazor\\proj\\portfoliomazenissa\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|solutionrelative:pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|e:\\gd\\blazor\\proj\\portfoliomazenissa\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|solutionrelative:layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|e:\\gd\\blazor\\proj\\portfoliomazenissa\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|solutionrelative:layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|e:\\gd\\blazor\\proj\\portfoliomazenissa\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|solutionrelative:pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|e:\\gd\\blazor\\proj\\portfoliomazenissa\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|solutionrelative:pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|e:\\gd\\blazor\\proj\\portfoliomazenissa\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|solutionrelative:pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|e:\\gd\\blazor\\proj\\portfoliomazenissa\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|solutionrelative:pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|e:\\gd\\blazor\\proj\\portfoliomazenissa\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|solutionrelative:pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|e:\\gd\\blazor\\proj\\portfoliomazenissa\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|e:\\gd\\blazor\\proj\\portfoliomazenissa\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|solutionrelative:layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|e:\\gd\\blazor\\proj\\portfoliomazenissa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,20 +54,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Home.razor",
               "DocumentMoniker": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Pages\\Home.razor",
-              "ToolTip": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\Pages\\Home.razor",
-              "RelativeToolTip": "Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ToolTip": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\Pages\\Home.razor*",
+              "RelativeToolTip": "Pages\\Home.razor*",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwFIAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-17T15:46:55.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Weather.razor",
               "DocumentMoniker": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\Pages\\Weather.razor",
               "RelativeDocumentMoniker": "Pages\\Weather.razor",
@@ -80,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Counter.razor",
               "DocumentMoniker": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "Pages\\Counter.razor",
@@ -93,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "About.razor",
               "DocumentMoniker": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\Pages\\About.razor",
               "RelativeDocumentMoniker": "Pages\\About.razor",
@@ -112,7 +112,7 @@
               "RelativeDocumentMoniker": "Layout\\MainLayout.razor",
               "ToolTip": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\Layout\\MainLayout.razor",
               "RelativeToolTip": "Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwA0AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-16T07:54:58.585Z",
               "EditorCaption": ""
@@ -143,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Layout\\NavMenu.razor",
@@ -156,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "index.html",
               "DocumentMoniker": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "wwwroot\\index.html",
