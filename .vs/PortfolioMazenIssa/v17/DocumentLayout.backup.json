@@ -58,9 +58,9 @@
               "Title": "Home.razor",
               "DocumentMoniker": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Pages\\Home.razor",
-              "ToolTip": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\Pages\\Home.razor*",
-              "RelativeToolTip": "Pages\\Home.razor*",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAwwFIAAAA7AAAAAAAAAA==",
+              "ToolTip": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\Pages\\Home.razor",
+              "RelativeToolTip": "Pages\\Home.razor",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAgwHsAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-17T15:46:55.172Z",
               "EditorCaption": ""
@@ -75,8 +75,7 @@
               "RelativeToolTip": "Pages\\Weather.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-17T15:43:53.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T15:43:53.592Z"
             },
             {
               "$type": "Document",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "Pages\\Counter.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-17T15:37:52.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T15:37:52.873Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "Pages\\About.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-17T14:25:16.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T14:25:16.531Z"
             },
             {
               "$type": "Document",
@@ -112,7 +109,7 @@
               "RelativeDocumentMoniker": "Layout\\MainLayout.razor",
               "ToolTip": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\Layout\\MainLayout.razor",
               "RelativeToolTip": "Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAwwFkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-16T07:54:58.585Z",
               "EditorCaption": ""
@@ -151,8 +148,7 @@
               "RelativeToolTip": "Layout\\NavMenu.razor",
               "ViewState": "AgIAAAwAAAAAAAAAAAAgwB4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-16T07:06:45.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-16T07:06:45.012Z"
             },
             {
               "$type": "Document",
@@ -164,8 +160,7 @@
               "RelativeToolTip": "wwwroot\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-12-16T06:40:19.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-16T06:40:19.661Z"
             }
           ]
         }
