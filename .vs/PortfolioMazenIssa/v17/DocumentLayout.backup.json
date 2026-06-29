@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|e:\\gd\\blazor\\proj\\portfoliomazenissa\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|solutionrelative:layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|e:\\gd\\blazor\\proj\\portfoliomazenissa\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|solutionrelative:pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|e:\\gd\\blazor\\proj\\portfoliomazenissa\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|solutionrelative:layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{415EDD7C-96C8-46D2-BEF3-5A1C053FA2D2}|PortfolioMazenIssa.csproj|e:\\gd\\blazor\\proj\\portfoliomazenissa\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,13 +66,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Home.razor",
               "DocumentMoniker": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Pages\\Home.razor",
-              "ToolTip": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\Pages\\Home.razor",
-              "RelativeToolTip": "Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAMAAAAAAAAAA==",
+              "ToolTip": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\Pages\\Home.razor*",
+              "RelativeToolTip": "Pages\\Home.razor*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwEkAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-17T15:46:55.172Z",
               "EditorCaption": ""
@@ -115,13 +115,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Layout\\MainLayout.razor",
-              "ToolTip": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\Layout\\MainLayout.razor*",
-              "RelativeToolTip": "Layout\\MainLayout.razor*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ToolTip": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-16T07:54:58.585Z",
               "EditorCaption": ""
