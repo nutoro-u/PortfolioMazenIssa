@@ -53,22 +53,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Monitor.cs",
-              "DocumentMoniker": "C:\\Users\\mazen\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs",
-              "ToolTip": "C:\\Users\\mazen\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs [Read Only]",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAgwFcAAAACAAAAAQAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T10:00:42.653Z",
-              "EditorCaption": " [Read Only]"
             },
             {
               "$type": "Document",
@@ -79,8 +68,7 @@
               "ToolTip": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\wwwroot\\Paper.png",
               "RelativeToolTip": "wwwroot\\Paper.png",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2026-06-29T08:52:11.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-29T08:52:11.359Z"
             },
             {
               "$type": "Document",
@@ -104,8 +92,7 @@
               "RelativeToolTip": "Pages\\Home.razor",
               "ViewState": "AgIAAD8AAAAAAAAAAAAwwEsAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-17T15:46:55.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T15:46:55.172Z"
             },
             {
               "$type": "Document",
@@ -151,10 +138,21 @@
               "RelativeDocumentMoniker": "Layout\\MainLayout.razor",
               "ToolTip": "E:\\GD\\Blazor\\proj\\PortfolioMazenIssa\\Layout\\MainLayout.razor",
               "RelativeToolTip": "Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwA0AAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwA0AAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-16T07:54:58.585Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Monitor.cs",
+              "DocumentMoniker": "C:\\Users\\mazen\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs",
+              "ToolTip": "C:\\Users\\mazen\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs [Read Only]",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwFcAAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T10:00:42.653Z",
+              "EditorCaption": " [Read Only]"
             },
             {
               "$type": "Document",
